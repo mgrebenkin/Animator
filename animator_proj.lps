@@ -1,0 +1,238 @@
+<?xml version="1.0"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="11">
+      <Unit0>
+        <Filename Value="animator_proj.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="animator_proj"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="3"/>
+        <CursorPos X="18" Y="18"/>
+        <UsageCount Value="68"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="animator_unt.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="MainForm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="animator_unt"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="0"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="589"/>
+        <CursorPos X="18" Y="621"/>
+        <FoldState Value=" T3k10A51E pifld0K1]9ejL044 pj2jH0N314]KXkV071 T1o90T13]A6o602]Ar"/>
+        <UsageCount Value="68"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="C:\Nospaces\lazarus\lcl\include\control.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="2707"/>
+        <CursorPos X="28" Y="2717"/>
+        <UsageCount Value="12"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="C:\Nospaces\lazarus\lcl\controls.pp"/>
+        <UnitName Value="Controls"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1333"/>
+        <CursorPos X="15" Y="1343"/>
+        <UsageCount Value="8"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="C:\Nospaces\lazarus\lcl\lclclasses.pp"/>
+        <UnitName Value="LCLClasses"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="130"/>
+        <CursorPos X="1" Y="142"/>
+        <UsageCount Value="7"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="C:\Nospaces\lazarus\lcl\include\shape.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="127"/>
+        <CursorPos X="1" Y="138"/>
+        <UsageCount Value="7"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="C:\Nospaces\lazarus\fpc\2.6.2\source\rtl\objpas\classes\classesh.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1681"/>
+        <CursorPos X="29" Y="1769"/>
+        <UsageCount Value="7"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="C:\Nospaces\lazarus\lcl\extctrls.pp"/>
+        <UnitName Value="ExtCtrls"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="285"/>
+        <CursorPos X="14" Y="294"/>
+        <UsageCount Value="7"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="C:\Nospaces\lazarus\lcl\forms.pp"/>
+        <UnitName Value="Forms"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1336"/>
+        <CursorPos X="21" Y="1359"/>
+        <UsageCount Value="8"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="C:\Nospaces\lazarus\lcl\include\application.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="2130"/>
+        <CursorPos X="3" Y="2156"/>
+        <UsageCount Value="8"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="C:\Nospaces\lazarus\lcl\include\menuitem.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="74"/>
+        <CursorPos X="1" Y="83"/>
+        <UsageCount Value="10"/>
+      </Unit10>
+    </Units>
+    <General>
+      <ActiveWindowIndexAtStart Value="0"/>
+    </General>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="animator_unt.pas"/>
+        <Caret Line="385" Column="1" TopLine="369"/>
+      </Position1>
+      <Position2>
+        <Filename Value="animator_unt.pas"/>
+        <Caret Line="373" Column="1" TopLine="369"/>
+      </Position2>
+      <Position3>
+        <Filename Value="animator_unt.pas"/>
+        <Caret Line="375" Column="1" TopLine="369"/>
+      </Position3>
+      <Position4>
+        <Filename Value="animator_unt.pas"/>
+        <Caret Line="376" Column="1" TopLine="369"/>
+      </Position4>
+      <Position5>
+        <Filename Value="animator_unt.pas"/>
+        <Caret Line="377" Column="1" TopLine="369"/>
+      </Position5>
+      <Position6>
+        <Filename Value="animator_unt.pas"/>
+        <Caret Line="378" Column="1" TopLine="369"/>
+      </Position6>
+      <Position7>
+        <Filename Value="animator_unt.pas"/>
+        <Caret Line="380" Column="1" TopLine="369"/>
+      </Position7>
+      <Position8>
+        <Filename Value="animator_unt.pas"/>
+        <Caret Line="381" Column="1" TopLine="369"/>
+      </Position8>
+      <Position9>
+        <Filename Value="animator_unt.pas"/>
+        <Caret Line="382" Column="1" TopLine="369"/>
+      </Position9>
+      <Position10>
+        <Filename Value="animator_unt.pas"/>
+        <Caret Line="421" Column="22" TopLine="415"/>
+      </Position10>
+      <Position11>
+        <Filename Value="animator_unt.pas"/>
+        <Caret Line="422" Column="9" TopLine="415"/>
+      </Position11>
+      <Position12>
+        <Filename Value="animator_unt.pas"/>
+        <Caret Line="421" Column="1" TopLine="415"/>
+      </Position12>
+      <Position13>
+        <Filename Value="animator_unt.pas"/>
+        <Caret Line="422" Column="1" TopLine="415"/>
+      </Position13>
+      <Position14>
+        <Filename Value="animator_unt.pas"/>
+        <Caret Line="516" Column="1" TopLine="566"/>
+      </Position14>
+      <Position15>
+        <Filename Value="animator_unt.pas"/>
+        <Caret Line="63" Column="30" TopLine="53"/>
+      </Position15>
+      <Position16>
+        <Filename Value="animator_unt.pas"/>
+        <Caret Line="123" Column="21" TopLine="106"/>
+      </Position16>
+      <Position17>
+        <Filename Value="animator_unt.pas"/>
+        <Caret Line="26" Column="37" TopLine="10"/>
+      </Position17>
+      <Position18>
+        <Filename Value="animator_unt.pas"/>
+        <Caret Line="222" Column="13" TopLine="210"/>
+      </Position18>
+      <Position19>
+        <Filename Value="animator_unt.pas"/>
+        <Caret Line="614" Column="15" TopLine="588"/>
+      </Position19>
+      <Position20>
+        <Filename Value="animator_unt.pas"/>
+        <Caret Line="221" Column="70" TopLine="213"/>
+      </Position20>
+      <Position21>
+        <Filename Value="animator_unt.pas"/>
+        <Caret Line="226" Column="78" TopLine="208"/>
+      </Position21>
+      <Position22>
+        <Filename Value="animator_unt.pas"/>
+        <Caret Line="217" Column="1" TopLine="208"/>
+      </Position22>
+      <Position23>
+        <Filename Value="animator_unt.pas"/>
+        <Caret Line="218" Column="1" TopLine="208"/>
+      </Position23>
+      <Position24>
+        <Filename Value="animator_unt.pas"/>
+        <Caret Line="220" Column="1" TopLine="208"/>
+      </Position24>
+      <Position25>
+        <Filename Value="animator_unt.pas"/>
+        <Caret Line="221" Column="1" TopLine="208"/>
+      </Position25>
+      <Position26>
+        <Filename Value="animator_unt.pas"/>
+        <Caret Line="223" Column="1" TopLine="211"/>
+      </Position26>
+      <Position27>
+        <Filename Value="animator_unt.pas"/>
+        <Caret Line="225" Column="1" TopLine="211"/>
+      </Position27>
+      <Position28>
+        <Filename Value="animator_unt.pas"/>
+        <Caret Line="217" Column="1" TopLine="211"/>
+      </Position28>
+      <Position29>
+        <Filename Value="animator_unt.pas"/>
+        <Caret Line="218" Column="1" TopLine="211"/>
+      </Position29>
+      <Position30>
+        <Filename Value="animator_unt.pas"/>
+        <Caret Line="220" Column="1" TopLine="211"/>
+      </Position30>
+    </JumpHistory>
+  </ProjectSession>
+  <Debugging>
+    <Watches Count="2">
+      <Item1>
+        <Expression Value="current"/>
+      </Item1>
+      <Item2>
+        <Expression Value="lstOrigin.Count"/>
+      </Item2>
+    </Watches>
+  </Debugging>
+</CONFIG>
